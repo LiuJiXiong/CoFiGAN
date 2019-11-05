@@ -1,5 +1,5 @@
 # CoFiGAN: Collaborative Filtering by Generative and Discriminative Training for One-Class Recommendation.
-This is our implementation for the paper.
+This is our implementation for the paper. <br>
 Authors: Jixiong Liu, Weike Pan and Zhong Ming.
 
 ## Description
