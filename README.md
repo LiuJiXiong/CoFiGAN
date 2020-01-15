@@ -1,6 +1,4 @@
 # CoFiGAN: Collaborative Filtering by Generative and Discriminative Training for One-Class Recommendation.
-This is our implementation for the paper. <br>
-Authors: Jixiong Liu, Weike Pan and Zhong Ming.
 
 ## Description
 We make personalized recommendation via the Generative Adversarial Network. In our model, the discriminator can not only discriminate the generated samples from the ground truth, but also provide positive and negative samples that are viewed as the goal of the generator, and the generator generates samples via the guidance of the discriminator. Compared to other recommendation models based on GANs, our model shows strong performances on four different datasets.
